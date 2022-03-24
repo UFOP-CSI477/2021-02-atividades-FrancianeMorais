@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Franciane Cristina de Morais
+- Matrícula: 16.2.8533
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes:2021.2
+- Link para o seu GitHub: https://github.com/FrancianeMorais
 
 ## [Projeto final:](./Projeto/README.md)
 
