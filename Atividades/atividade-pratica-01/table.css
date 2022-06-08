@@ -1,0 +1,22 @@
+
+table{
+    width: 100%;
+}
+table, tr, th, td{
+    border-collapse: collapse;
+    border:1px solid lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}  
+
+#title{
+    font-weight: bold;
+}
+caption{
+    font-size: 18px;
+    font-weight: bold
+    
+
+}
+td:hover{
+    background-color: lightgrey;
+}

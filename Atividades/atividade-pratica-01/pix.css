@@ -1,0 +1,10 @@
+.info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 12px;
+    
+}
+input {
+    background-color: lightgray;
+    padding:5px;
+    border:1px solid gray;
+}
