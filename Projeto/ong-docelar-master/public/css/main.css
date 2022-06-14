@@ -1,0 +1,9 @@
+.menu-list {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.navbar_ {
+    padding: 1em 0;
+}

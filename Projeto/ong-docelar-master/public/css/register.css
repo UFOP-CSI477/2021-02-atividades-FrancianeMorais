@@ -1,0 +1,50 @@
+.panel-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 80vh;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.panel-container .img {
+    background:
+        url('https://images.unsplash.com/photo-1571613343440-92b7eb7265e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80')
+        no-repeat
+        center;
+    background-size: cover;
+}
+
+.panel-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.svg {
+    background:
+        url('https://www.svgimages.com/svg-image/s5/pets-care-icon.svg')
+        no-repeat
+        center;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+form {
+    width: 80%;
+}
+
+form button {
+    width: 100%;
+}
